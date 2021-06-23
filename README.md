@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com a Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ajduda de Rocketseat :wave: [Participe da comunidade!](https://discordapp.com/invite/gCRAFhc)
